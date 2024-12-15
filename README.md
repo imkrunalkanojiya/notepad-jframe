@@ -1,9 +1,9 @@
 # Notepad using JFrame
 
 ## Feature
-- Code decoration
-- syntax highlighting
-- portable
+- Code Decoration
+- Syntax Highlighting
+- Portable
 
 ## DEMO
 
